@@ -12,7 +12,7 @@ namespace TeamCityTests
         [Test]
         public void Assert_That_A_String_Equals_Name()
         {
-            string name = "Muthomi";
+            string name = "Muthomi!";
 
             Assert.AreEqual("Muthomi", name);
         }
