@@ -12077,11 +12077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TSOMI\\Desktop\\APPS\\TeamCityPractice\\TeamCityPractice\\TeamCityPractice.csproj",
+      "projectUniqueName": "C:\\Users\\TSOMI\\Desktop\\MYWAREHOUSE\\TEAM\\TeamCity\\TeamCityPractice\\TeamCityPractice.csproj",
       "projectName": "TeamCityPractice",
-      "projectPath": "C:\\Users\\TSOMI\\Desktop\\APPS\\TeamCityPractice\\TeamCityPractice\\TeamCityPractice.csproj",
+      "projectPath": "C:\\Users\\TSOMI\\Desktop\\MYWAREHOUSE\\TEAM\\TeamCity\\TeamCityPractice\\TeamCityPractice.csproj",
       "packagesPath": "C:\\Users\\TSOMI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TSOMI\\Desktop\\APPS\\TeamCityPractice\\TeamCityPractice\\obj\\",
+      "outputPath": "C:\\Users\\TSOMI\\Desktop\\MYWAREHOUSE\\TEAM\\TeamCity\\TeamCityPractice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

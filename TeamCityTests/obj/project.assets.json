@@ -4584,11 +4584,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TSOMI\\Desktop\\APPS\\TeamCityPractice\\TeamCityTests\\TeamCityTests.csproj",
+      "projectUniqueName": "C:\\Users\\TSOMI\\Desktop\\MYWAREHOUSE\\TEAM\\TeamCity\\TeamCityTests\\TeamCityTests.csproj",
       "projectName": "TeamCityTests",
-      "projectPath": "C:\\Users\\TSOMI\\Desktop\\APPS\\TeamCityPractice\\TeamCityTests\\TeamCityTests.csproj",
+      "projectPath": "C:\\Users\\TSOMI\\Desktop\\MYWAREHOUSE\\TEAM\\TeamCity\\TeamCityTests\\TeamCityTests.csproj",
       "packagesPath": "C:\\Users\\TSOMI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TSOMI\\Desktop\\APPS\\TeamCityPractice\\TeamCityTests\\obj\\",
+      "outputPath": "C:\\Users\\TSOMI\\Desktop\\MYWAREHOUSE\\TEAM\\TeamCity\\TeamCityTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
